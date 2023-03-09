@@ -38,7 +38,7 @@ body{
     align-items: center;
     max-width: 350px;
     height: 550px;
-    background-color: var(--cor1);
+    background-color: #fff;
     border-radius: 15px;
 }
 
